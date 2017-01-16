@@ -1,0 +1,7 @@
+01-15 21:18:08.989 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: This app title is ActivitySpy
+01-15 21:18:08.989 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: onCreate event fired
+01-15 21:18:08.990 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: onStart event fired
+01-15 21:18:08.990 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: onResume event fired
+01-15 21:19:05.619 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: onPause event fired
+01-15 21:19:05.630 10717-10717/edu.washington.clgan.activityspy I/ActivitySpy: onStop event fired
+01-15 21:19:05.630 10717-10717/edu.washington.clgan.activityspy E/ActivitySpy: We’re going down, Captain!
